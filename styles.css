@@ -6,6 +6,8 @@
 .myHeader {
   background-color: rgb(246, 96, 121);
   color: black;
+  font-size: 60px;
+  min-width: 100%;
   display: flex;
   text-align: center;
 }
