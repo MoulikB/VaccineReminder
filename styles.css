@@ -1,10 +1,7 @@
 body {
-  font-size: 16px;
-}
-
-.back1 {
-  background-color: rgb(248, 187, 228);
   font-family: Arial, sans-serif;
+  font-size: 16px;
+  background-color: rgb(248, 187, 228);
 }
 
 .myHeader {
