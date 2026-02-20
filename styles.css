@@ -4,7 +4,15 @@
 }
 
 .myHeader {
-  background-color: cornflowerblue;
-  font-size: 200vw;
+  background-color: rgb(246, 96, 121);
+  font-size: 15px;
+  height: 20px;
   color: black;
+  display: flex;
+}
+
+.myFooter {
+  background-color: rgb(246, 96, 121);
+  height: 15px;
+  display: flex;
 }
